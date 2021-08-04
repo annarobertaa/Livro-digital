@@ -110,15 +110,10 @@ h3, .h3 {
 
 h5{
 
-  margin-left: 110%;
-  margin-right: -100%;
 }
 
 h6{
-
-  margin-left: 110%;
-  margin-right: -100%;
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
   font-family: arial;
 }
@@ -136,8 +131,8 @@ h4, .h4 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  font-family: arial;
-  font-size: 24px;
+  font-family: serif, georgia;
+  font-size: 20px;
 }
 
 abbr[title],
